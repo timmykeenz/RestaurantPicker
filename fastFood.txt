@@ -1,0 +1,31 @@
+Number_Of_Restaurants: 3
+
+Restaurant_Name: Wendy's (4 for 4 menu items)
+Menu_Size: 7
+Crispy Chicken Sandwich
+Spicy Chicken Wrap
+Crispy Chicken BLT
+Jr. Cheeseburger
+Jr. Bacon Cheeseburger
+Double Stack
+Grilled Chicken Wrap
+
+Restaurant_Name: Taco Bell
+Menu_Size: 9
+Toasted Chedder Chalupa Box
+Grande Nachos Box - Beef
+Grande Nachos Box - Chicken
+Steak Quesarito Combo
+Beefy Fritos Burrito
+Cheesy Bean and Rice Burrito
+Spicy Potato Soft Taco
+Spicy Tostada
+Triple Layer Nachos
+
+Restaurant_Name: Burger King
+Menu_Size: 5
+Bacon King Combo Meal
+BOGO Crispy Chicken Sandwich
+$5 Whopper Meal
+$4.99 2 Original Chicken Sandwiches
+$3 Double Cheeseburger meal
